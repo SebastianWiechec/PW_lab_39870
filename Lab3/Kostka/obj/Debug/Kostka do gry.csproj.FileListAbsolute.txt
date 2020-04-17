@@ -1,0 +1,40 @@
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\bin\Debug\Kostka do gry.exe.config
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\bin\Debug\Kostka do gry.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\bin\Debug\Kostka do gry.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\obj\Debug\Kostka do gry.csprojAssemblyReference.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\obj\Debug\Kostka_do_gry.MainForm.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\obj\Debug\Kostka_do_gry.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\obj\Debug\Kostka do gry.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\obj\Debug\Kostka do gry.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\obj\Debug\Kostka do gry.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry\obj\Debug\Kostka do gry.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\bin\Debug\Kostka do gry.exe.config
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\bin\Debug\Kostka do gry.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\bin\Debug\Kostka do gry.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\obj\Debug\Kostka do gry.csprojAssemblyReference.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\obj\Debug\Kostka_do_gry.MainForm.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\obj\Debug\Kostka_do_gry.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\obj\Debug\Kostka do gry.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\obj\Debug\Kostka do gry.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\obj\Debug\Kostka do gry.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry — kopia\obj\Debug\Kostka do gry.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\bin\Debug\Kostka do gry.exe.config
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\bin\Debug\Kostka do gry.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\bin\Debug\Kostka do gry.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\obj\Debug\Kostka do gry.csprojAssemblyReference.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\obj\Debug\Kostka_do_gry.MainForm.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\obj\Debug\Kostka_do_gry.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\obj\Debug\Kostka do gry.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\obj\Debug\Kostka do gry.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\obj\Debug\Kostka do gry.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka do gry Zapas\obj\Debug\Kostka do gry.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\bin\Debug\Kostka do gry.exe.config
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\bin\Debug\Kostka do gry.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\bin\Debug\Kostka do gry.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\obj\Debug\Kostka do gry.csprojAssemblyReference.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\obj\Debug\Kostka_do_gry.MainForm.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\obj\Debug\Kostka_do_gry.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\obj\Debug\Kostka do gry.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\obj\Debug\Kostka do gry.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\obj\Debug\Kostka do gry.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Kostka\obj\Debug\Kostka do gry.pdb

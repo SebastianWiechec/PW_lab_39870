@@ -1,0 +1,11 @@
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\bin\Debug\Panel logowania.exe.config
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\bin\Debug\Panel logowania.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\bin\Debug\Panel logowania.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\obj\Debug\Panel_logowania.LoginCheck.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\obj\Debug\Panel_logowania.Properties.Resources.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\obj\Debug\Panel logowania.csproj.GenerateResource.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\obj\Debug\Panel logowania.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\obj\Debug\Panel logowania.exe
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\obj\Debug\Panel logowania.pdb
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\obj\Debug\Panel_logowania.PanelLogowania.resources
+C:\Users\Sebastian\Downloads\PW-master\Lab 3\Panel logowania\obj\Debug\Panel logowania.csprojAssemblyReference.cache
