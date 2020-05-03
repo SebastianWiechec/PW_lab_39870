@@ -45,6 +45,8 @@ namespace WindowsFormsApp3
                 commandDatabase.Parameters.Add("?cena", MySqlDbType.Int32).Value = Convert.ToInt32(textBox5.Text);
                 commandDatabase.ExecuteNonQuery();
 
+                MessageBox.Show("Dodano rekord : " + textBox1.Text+" " + textBox2.Text);
+
                 databaseConnection.Close();
             }
             catch (Exception ex)

@@ -39,6 +39,8 @@ namespace WindowsFormsApp3
                 commandDatabase.Parameters.Add("?id", MySqlDbType.Int32).Value = Convert.ToInt32(textBox1.Text);
                 commandDatabase.ExecuteNonQuery();
 
+                MessageBox.Show("Usunięto "+ textBox1.Text+" rekord");
+
                 databaseConnection.Close();
             }
             catch (Exception ex)
